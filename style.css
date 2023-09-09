@@ -12,12 +12,16 @@ h1{
     border-left: 5px solid rgb(255, 170, 0);
     
     padding-left:15px ;
+    border-radius: 5px ;
     
  
     
 }
 p{
-    font-size: 24px;
+    font-size: 23px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: rgba(0, 0, 0, 0.74);
+    
 }
 section{
     display: flex;
@@ -39,4 +43,28 @@ section{
     color: white;
     padding: 15px 25px 15px 25px;
     border-radius: 7px;
+}
+#bottom-word{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+#center{
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.adjust img{
+    width: 30%;
+
+
+}
+.adjust{
+    font-size: 10px;
+}
+.font{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5px;
 }
