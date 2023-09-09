@@ -154,3 +154,26 @@ section{
     
     text-align: center;
 }
+.web{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: rgba(134, 94, 20, 0.575);
+    padding-top: 50px ;
+
+}
+.close{
+    padding-top: 50px;
+    color: rgb(17, 105, 102);
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+    color: aliceblue;
+    padding: 20px 40px 40px 40px;
+
+}
+.done{
+    background-color: black;
+    
+}
