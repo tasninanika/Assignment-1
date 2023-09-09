@@ -1,6 +1,9 @@
 h1{
-    font-size: 65px;
+    font-size: 68px;
     color: rgba(0, 0, 0, 0.77);
+    margin-top: 20%;
+    
+    
 }
 .green{
     color: rgb(102, 141, 128);
@@ -9,16 +12,31 @@ h1{
     border-left: 5px solid rgb(255, 170, 0);
     
     padding-left:15px ;
+    
  
     
 }
 p{
-    font-size: 20px;
+    font-size: 24px;
 }
 section{
     display: flex;
+    padding-left: 10%;
 }
 
 .first img{
-    width: 35%;
+    width: 68%;
+    padding-left: 10%;
+    
+}
+.width{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(14, 103, 92);
+    color: white;
+    padding: 15px 25px 15px 25px;
+    border-radius: 7px;
 }
