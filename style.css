@@ -56,15 +56,51 @@ section{
     
 }
 .adjust img{
+    margin-top: 10px;
+    padding-top: 15px;
     width: 30%;
 
 
 }
-.adjust{
-    font-size: 10px;
+.vission{
+    margin-top: 50px;
+    background-color: rgba(104, 167, 147, 0.271);
+    padding-left: 21px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
+    
+
+}
+.mission{
+    margin-top: 50px;
+    background-color: rgba(205, 52, 52, 0.134);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-right: 40px;
+    
+}
+.goals{
+    margin-top: 50px;
+    margin-right: 140px;
+    margin-left: 40px;
+    background-color: rgba(96, 33, 109, 0.271);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
 }
 .font{
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     margin-top: 5px;
+}
+.font-size{
+    font-size: 18px;
+}
+.third img{
+    width: 80%;
+    margin-top: 100px;
+   
 }
