@@ -121,6 +121,7 @@ section{
 .limit{
     margin-top: 0px;
     font-size: 40px;
+    
 }
 .global{
     font-size: 50px;
@@ -140,6 +141,16 @@ section{
 
 
 .last{
-    width: 30%;
+    width: 70%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin-top: 50px;
     
+}
+.stay{
+    margin-right: 200px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    text-align: center;
 }
