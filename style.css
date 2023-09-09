@@ -9,6 +9,16 @@ h1{
     border-left: 5px solid rgb(255, 170, 0);
     
     padding-left:15px ;
+ 
     
-    
+}
+p{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+
+.first img{
+    width: 35%;
 }
